@@ -1,5 +1,5 @@
 [Intro | 0:00 – 0:30]
-“Hey everyone, welcome back to EsthyTech! 🚀 In today’s class, we’re diving into one of the most powerful ways to run Kubernetes in production — Amazon EKS. We’ll be setting up a Kubernetes cluster using eksctl, a super simple CLI tool that makes the whole process smooth and fast.
+“Hey everyone, welcome back to EsthyTech! In today’s class, we’re diving into one of the most powerful ways to run Kubernetes in production. Amazon EKS. We’ll be setting up a Kubernetes cluster using eksctl, a super simple CLI tool that makes the whole process smooth and fast.
 By the end of this session, you’ll have your very own production-ready EKS cluster up and running, and you’ll be able to start deploying workloads right away. So grab your coffee, and let’s get started!”
 
 ## Setup EKS cluster using eksctl
