@@ -1,4 +1,4 @@
-[Intro | 0:00 – 0:30]
+## [Intro | 0:00 – 0:30]
 “Hey everyone, welcome back to EsthyTech! In today’s class, we’re diving into one of the most powerful ways to run Kubernetes in production. Amazon EKS. We’ll be setting up a Kubernetes cluster using eksctl, a super simple CLI tool that makes the whole process smooth and fast.
 By the end of this session, you’ll have your very own production-ready EKS cluster up and running, and you’ll be able to start deploying workloads right away. So grab your coffee, and let’s get started!”
 
@@ -119,7 +119,7 @@ eksctl delete cluster --name my-cluster --region us-east-1
 Always clean up your resources to save money in AWS
 After deleting the cluster, you can verify in Cloudformation that all the stacks related to the cluster creation were successfully deleted.
 
-Outro | 6:30 – End]
+## Outro | 6:30 – End]
 “And that’s it — you’ve just created, verified, and even cleaned up a Kubernetes cluster on Amazon EKS using eksctl! 🎉
 
 ## In the next video, we’ll dive deeper into deploying workloads on this cluster and managing them effectively.
