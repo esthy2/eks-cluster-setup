@@ -124,7 +124,7 @@ Outro | 6:30 – End]
 
 ## In the next video, we’ll dive deeper into deploying workloads on this cluster and managing them effectively.
 If you found this tutorial helpful, please smash that Like button, Subscribe to EsthyTech, and hit the bell icon so you don’t miss the next lesson. And hey, drop your questions in the comments — I’d love to hear how your cluster setup went.
-Thanks for watching, and as always… happy coding with Kubernetes!
+Thanks for watching, and as always… keep learning with Esthytech!
 
 
 ## COMING UP (Optional) Cluster Setup with Terraform
